@@ -19,6 +19,7 @@ int main(){
         char c;
         cin>> c;
         //fetch
+        cout<<hash[c-'a']<<endl;
 
     }
 
